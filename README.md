@@ -26,3 +26,5 @@ Il peut être utile de créer au prélable un environnement virtuel et de l'acti
 
 `source graphadon/bin/activate`
 
+Vous pouvez aussi utiliser binder pour exécuter le notebook sans rien installer sur votre machine:
+[![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/lezoray/GSP_GRAPHADON/HEAD)
