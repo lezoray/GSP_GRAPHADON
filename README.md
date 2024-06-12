@@ -8,7 +8,7 @@ Il présente les notions du traitement du signal sur graphe.
 
 Il est constitué d'un unique notebook nommé TP_GSP_GRAPHADON.ipynb
 Vous pouvez le télécharger à l'aide de git :
-git clone https://github.com/lezoray/GSP_GRAPHADON
+`git clone https://github.com/lezoray/GSP_GRAPHADON`
 
 Il nécessite les packages python suivants :
 - numpy
@@ -18,11 +18,11 @@ Il nécessite les packages python suivants :
 - pyunlocbox
 - trimesh
 
-Vous pouvez les installer directement avec pip install -r requirements.txt
+Vous pouvez les installer directement avec `pip install -r requirements.txt`
 
 Il peut être utile de créer au prélable un environnement virtuel et de l'activer:
 
-python3 -m venv graphadon
+`python3 -m venv graphadon`
 
-source graphadon/bin/activate
+`source graphadon/bin/activate`
 
