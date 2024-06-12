@@ -21,6 +21,8 @@ Il nécessite les packages python suivants :
 Vous pouvez les installer directement avec pip install -r requirements.txt
 
 Il peut être utile de créer au prélable un environnement virtuel et de l'activer:
+
 python3 -m venv graphadon
+
 source graphadon/bin/activate
 
